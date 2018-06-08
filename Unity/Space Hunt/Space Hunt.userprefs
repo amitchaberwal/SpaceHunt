@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\StartUI.cs">
+    <Files>
+      <File FileName="Assets\Script\Yoga\YPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Yoga\OM.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Yoga\YMUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Exercise\alien.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Yoga\YogaModeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\StartUI.cs" Line="109" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
